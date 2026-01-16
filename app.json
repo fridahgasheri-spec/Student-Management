@@ -1,0 +1,69 @@
+{
+    "id": "12e0865a-bc95-48d4-b8d3-cfb2dea371b8",
+    "name": "NESIS",
+    "publisher": "Default Publisher",
+    "version": "1.0.0.0",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+   "dependencies": [
+    {
+        "id": "b3780cd9-f8f8-4a83-a4d5-0c2ad87b28af",
+        "name": "Sustainability",
+        "publisher": "Microsoft",
+        "version": "27.0.38460.40242"
+    },
+    {
+        "id": "e2ae191d-8829-44c3-a373-3749a2742d4d",
+        "name": "Service Declaration",
+        "publisher": "Microsoft",
+        "version": "27.0.38460.40242"
+    },
+    {
+        "id": "3099ffc7-4cf7-4df6-9b96-7e4bc2bb587c",
+        "name": "Subscription Billing",
+        "publisher": "Microsoft",
+        "version": "27.0.38460.40242"
+    },
+    {
+        "id": "70912191-3c4c-49fc-a1de-bc6ea1ac9da6",
+        "name": "Intrastat Core",
+        "publisher": "Microsoft",
+        "version": "27.0.38460.40242"
+    },
+    {
+        "id": "ec255f57-31d0-4ca2-b751-f2fa7c745abb",
+        "name": "Shopify Connector",
+        "publisher": "Microsoft",
+        "version": "27.0.38460.40242"
+    },
+    {
+        "id": "c526b3e9-b8ca-4683-81ba-fcd5f6b1472a",
+        "name": "Sales and Inventory Forecast",
+        "publisher": "Microsoft",
+        "version": "27.0.38460.40242"
+    }
+],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "27.0.38460.40242",
+    "idRanges": [
+        {
+            "from": 50100,
+            "to": 50149
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true,
+        "includeSourceInSymbolFile": true
+    },
+    "runtime": "16.0",
+    "features": [
+        "NoImplicitWith"
+    ]
+}

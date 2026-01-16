@@ -1,0 +1,12 @@
+# AL compiled output
+*.app
+
+# AL symbols
+.alpackages/
+
+# VS Code local files
+.vscode/launch.json
+.vscode/.alcache/
+
+# AL environment-specific config
+app.json
